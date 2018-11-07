@@ -1,2 +1,4 @@
 # HelloGit
-test git use cases
+test git use cases: this text added on mrshine
+
+
