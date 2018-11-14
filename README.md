@@ -7,3 +7,5 @@ test git use cases: this text added DONT CHANGE THIS FILE OR IT WILL BE ALL YOUR
 test git use cases: this text added on mrshine modified on mrshine and by john
 
 John's invite link: https://github.com/dptNHS/HelloGit/invitations
+
+user story 1 work a
